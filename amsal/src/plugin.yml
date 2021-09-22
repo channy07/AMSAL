@@ -1,0 +1,8 @@
+name : amsal
+version : 1.0
+main : Main.main
+author : channy7123
+api-version : 1.13
+
+commands:
+    amsal:
